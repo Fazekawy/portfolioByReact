@@ -1,0 +1,1 @@
+export const Logo = () => ( <img src="https://atlas.redpixelthemes.com/assets/img/logo.svg" alt="logo" /> )
